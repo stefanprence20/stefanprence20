@@ -18,7 +18,7 @@
         <a href="mailto:stefan.prence@gmail.com" target="blank" rel="noreferrer">
             <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:" height="50" width="50" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
         </a>
-        <a href="https://www.linkedin.com/in/stefan-pren%C3%A7e-760a40134/" target="blank" rel="noreferrer">
+        <a href="https://www.linkedin.com/in/stefan-prence-760a40134/" target="blank" rel="noreferrer">
             <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://linkedin.com" height="50" width="50" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
         </a>
         <a href="https://www.facebook.com/stefan.prence" target="blank" rel="noreferrer">
